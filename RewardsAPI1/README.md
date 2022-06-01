@@ -50,5 +50,5 @@ Purchase
 
 ###To Run this project locally
 
-$ git clone https://github.com/
+$ git clone https://github.com/SwetheGit/API_Rewards/tree/master/RewardsAPI1
 $ mvn spring-boot: run
